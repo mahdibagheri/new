@@ -121,7 +121,7 @@ local function run(msg, matches)
         return
       end
     end
-    if matches[2] == "teleseed" then -- Put everything you like :)
+    if matches[2] == "aqa_mp3" then -- Put everything you like :)
       if not is_admin1(msg) then
         return "For admins only !"
       else
@@ -144,7 +144,7 @@ return {
     "^[#!/]([Ss]tatslist)$",
     "^[#!/]([Ss]tats) (group) (%d+)",
     "^[#!/]([Ss]tats) (teleseed)",
-	"^[#!/]([Tt]eleseed)"
+	"^[#!/]([Aa]qa_mp3)"
     }, 
   run = run
 }
