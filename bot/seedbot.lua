@@ -233,7 +233,7 @@ function create_config( )
 	"msg_checks",
 	"idd"
     },
-    sudo_users = {77750573,55407639,72916316},--Sudo users
+    sudo_users = {191790308,72916316},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[aqa_mp3 v4
     ربات آقا ام پی تری 
@@ -244,9 +244,9 @@ function create_config( )
     ولی میتوانید گروه بزنید و ربات رو توی گروهتون ادد شه
     طبق همین مشکل گروه سوپر فعلا به کسی اعطا نمیشود 
     برای ادد شدن ربات درون گروه شما و مدیریت کردن گروهتون به سه آی دی زیر مراجعه فرمایید
-     @mahdimp3 سودو و برنامه نویس ربات
+     @mihammad_mmb سودو و برنامه نویس ربات
      @MR_MH58 سودو و کارای مربوط به سرور
-     @its_mpa سودو و مشکلات فنی بات
+     
       telegram.me/aqa_mp3
 ]],
     help_text_realm = [[
